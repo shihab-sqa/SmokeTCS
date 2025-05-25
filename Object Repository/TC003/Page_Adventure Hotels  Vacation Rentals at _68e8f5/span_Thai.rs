@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Thai</name>
+   <tag></tag>
+   <elementGuidId>a8cdb71c-a017-4f29-8044-485930608a9b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id=':rc:']/div/div/section[2]/div/div/section/label[2]/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Thai&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>113aaac2-622e-4254-b7e8-ba02d6135bde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-radio-label</value>
+      <webElementGuid>26b61674-375c-44d8-b410-fb27aafa5fdf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Thai</value>
+      <webElementGuid>fa727533-6d50-46ce-8aeb-13a7780967a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;:rc:&quot;)/div[@class=&quot;ant-popover-inner-content&quot;]/div[@class=&quot;min-w-[320px] sm:min-w-[400px]&quot;]/section[@class=&quot;flex gap-[52px] mt-4 w-full max-h-[150px] overflow-y-scroll phxGeographySelection_customScrollbar__GdGxR&quot;]/div[@class=&quot;flex flex-col w-1/2&quot;]/div[@class=&quot;ant-radio-group ant-radio-group-outline css-3xdb2j&quot;]/section[@class=&quot;inline-flex flex-col gap-4&quot;]/label[@class=&quot;ant-radio-wrapper text-sm  text-textBaseDarkLight dark:text-textBaseDarkDark [&amp;>label]:text-textBaseWhiteLight 
+                    [&amp;>label]:dark:text-textBaseWhiteDark 
+                    
+                    [&amp;_.ant-radio-inner]:border-borderBaseGreylightLight 
+                    [&amp;_.ant-radio-inner]:dark:border-borderBaseGreylightDark
+                    [&amp;_.ant-radio-inner]:bg-transparent
+                    [&amp;_.ant-radio-inner]:w-3.5
+                    [&amp;_.ant-radio-inner]:h-3.5
+                    
+                    [&amp;_.ant-radio-checked>.ant-radio-inner]:border-borderBasePrimaryLight 
+                    [&amp;_.ant-radio-checked>.ant-radio-inner]:dark:border-borderBasePrimaryDark 
+                    [&amp;_.ant-radio-checked>.ant-radio-inner]:bg-surfaceBasePrimaryLight 
+                    [&amp;_.ant-radio-checked>.ant-radio-inner]:dark:bg-surfaceBasePrimaryDark
+                    [&amp;_.ant-radio-checked>.ant-radio-inner]:after:bg-surfaceBaseWhiteLight 
+                    [&amp;_.ant-radio-checked>.ant-radio-inner]:after:dark:bg-surfaceBaseWhiteDark
+                    
+                    [&amp;>label:hover_.ant-radio-inner]:border-borderBasePrimaryLight
+                    [&amp;>label:hover_.ant-radio-inner]:dark:border-borderBasePrimaryDark css-15ykjj1&quot;]/span[@class=&quot;ant-radio-label&quot;]</value>
+      <webElementGuid>3ee842bb-eb67-4b23-b3f3-ebd1d4528cf9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id=':rc:']/div/div/section[2]/div/div/section/label[2]/span[2]</value>
+      <webElementGuid>79b08b7e-70f7-4328-8328-ebb346b2773f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='English'])[1]/following::span[3]</value>
+      <webElementGuid>32a0c90f-8bd8-4711-9010-646a8a848771</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Language'])[1]/following::span[6]</value>
+      <webElementGuid>dd3d1fe0-b437-45ea-bbf6-48589d3aaa3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Currency'])[1]/preceding::span[1]</value>
+      <webElementGuid>5bba66b6-0a72-407b-a458-c0e2dd97ccd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='THB'])[1]/preceding::span[4]</value>
+      <webElementGuid>c1fb407d-d7a3-42c4-8cc9-6c8fa3e4e056</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Thai']/parent::*</value>
+      <webElementGuid>e4e347e8-2e0e-4bec-9f69-3cfde546a986</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label[2]/span[2]</value>
+      <webElementGuid>4ba1dd0b-b0db-4560-af55-2e6f6a0b653a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Thai' or . = 'Thai')]</value>
+      <webElementGuid>6a773a02-3f77-4078-a50d-6abf7730d989</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
