@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_May 26, 25_moon</name>
+   <tag></tag>
+   <elementGuidId>3139b05f-8cb6-4632-a0f0-0bec24517dab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='May 26, 25'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg[name=&quot;moon&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Monday May 26, 25 1 Night Tuesday May 27, 25 May 2025 MON TUE WED THU FRI SAT SUN 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 $14 Memorial Day 26 $14 27 $14 28 $14 29 30 $14 31 $14 June 2025 MON TUE WED THU FRI SAT SUN 01 $14 02 $14 03 04 $14 05 $14 06 $14 07 $14 08 09 $14 10 $14 11 $14 12 $14 13 14 $14 15 16 17 18 Juneteenth National Independence Day 19 20 21 22 23 24 25 26 27 28 Eid-ul-Adha (Date may vary) 29 30 Approximate prices for a 1-night stay at a 3 star property High Price Low Price Holidays&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>4f5cbf0d-3ead-4e18-82cc-6fff7cd09ec9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-iconDarkLight dark:text-iconDarkDark</value>
+      <webElementGuid>5c7bc850-fc11-40cd-83e6-d6c4332cbb6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>6f86b9e4-4dee-4dd7-8215-10c8490fbed1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 10 11</value>
+      <webElementGuid>36ff107e-1fde-4b5c-80eb-a0f97582bf50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>5d10c42e-1348-4287-bb2e-2bf5283dc716</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>moon</value>
+      <webElementGuid>7f9d9983-2137-42c6-a022-971b7119d84d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>12</value>
+      <webElementGuid>137377c1-4cdb-424b-a945-d93f7e3809c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>12</value>
+      <webElementGuid>da467aaf-d45b-441a-a595-57f97193f889</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;widget-date-input&quot;)/div[@class=&quot;w-fit flex justify-center border border-borderBaseGreylightLight dark:border-borderBaseGreylightDark bg-transparent rounded&quot;]/div[@class=&quot;flex gap-1 items-center px-2 py-1 rounded min-w-fit&quot;]/span[@class=&quot;mt-1&quot;]/svg[@class=&quot;text-iconDarkLight dark:text-iconDarkDark&quot;]</value>
+      <webElementGuid>2bbdc826-6eb8-44db-8eb2-c7b16cdfe105</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='May 26, 25'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>e1d37f29-b558-47e2-b8b0-428558bc349c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monday'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>9445fc24-db61-4e34-b47d-485dee0c4c3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tuesday'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>fa17527e-7546-479a-87c7-f3a6de6f5e2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='May 27, 25'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>b41b9d4f-9293-4678-9b16-8d7379c11547</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//svg[@name = 'moon']</value>
+      <webElementGuid>9e6e727d-628d-4e10-8309-6b86e38dd14f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

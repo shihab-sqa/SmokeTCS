@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Vacation Rental_w-34 h-4  rounded-md sh_22ec50</name>
+   <tag></tag>
+   <elementGuidId>bcfa2900-4baa-4956-b43a-5ff6db31fb3d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//html[@id='tailwind-core']/body/div[3]/main/main/section[2]/div[3]/div[2]/div[2]/div/section/section/section/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.w-3\/4 >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>982e0ada-d6ea-4ed9-bf96-cf237f07d64f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-3/4 h-4  rounded-md shimmer bg-borderBaseGreylightLight/50 dark:bg-borderBaseGreylightDark/40</value>
+      <webElementGuid>8d11127b-3fee-442c-bdc4-06bd7e32221f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tailwind-core&quot;)/body[@class=&quot;__className_a37cae layout_customScrollbar__E0DvH !w-full&quot;]/div[@class=&quot;css-1to9m9p ant-app&quot;]/main[@class=&quot;bg-surfaceBaseWhiteLight dark:bg-surfaceBaseWhiteDark min-h-full min-w-full&quot;]/main[@class=&quot;min-h-screen max-w-full overflow-hidden&quot;]/section[@class=&quot;relative w-full h-[720px] md:h-[840px] lg:h-[720px] bg-no-repeat bg-cover&quot;]/div[@class=&quot;container mx-auto relative z-30 h-full w-full&quot;]/div[2]/div[@class=&quot;relative&quot;]/div[@class=&quot;bg-surfaceBaseDarkLight dark:bg-surfaceBaseBg5Dark bg-opacity-40 dark:bg-opacity-40 py-4 sm:py-8 px-4 rounded-lg md:rounded-ss-none&quot;]/section[1]/section[@class=&quot;flex flex-col lg:flex-row justify-center items-center gap-2 z-10 w-full&quot;]/section[@class=&quot;flex-1 self-stretch lg:self-auto&quot;]/div[@class=&quot;flex justify-between font-medium items-center py-6 px-3 w-full rounded-lg bg-surfaceBaseWhiteLight dark:bg-surfaceBaseWhiteDark !border-borderAccentBlueLight dark:!border-borderAccentBlueDark border&quot;]/div[@class=&quot;flex gap-2 justify-start items-center h-[22px] w-4/5&quot;]/div[@class=&quot;w-3/4 h-4  rounded-md shimmer bg-borderBaseGreylightLight/50 dark:bg-borderBaseGreylightDark/40&quot;]</value>
+      <webElementGuid>888ca3e7-9340-4b5b-8c58-94a68a225cdf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//html[@id='tailwind-core']/body/div[3]/main/main/section[2]/div[3]/div[2]/div[2]/div/section/section/section/div/div/div</value>
+      <webElementGuid>6ab0915c-1a0c-444c-86b0-1a1667c53aaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/section/div/div/div</value>
+      <webElementGuid>47a49931-e1c3-4162-bfbf-68f7ca5eaecc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
